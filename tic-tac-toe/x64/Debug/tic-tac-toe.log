@@ -1,0 +1,4 @@
+﻿  tic-tac-toe.cpp
+D:\Training\Book1\Workspace1\tic-tac-toe\tic-tac-toe\tic-tac-toe.cpp(207,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Training\Book1\Workspace1\tic-tac-toe\tic-tac-toe\tic-tac-toe.cpp(211,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  tic-tac-toe.vcxproj -> D:\Training\Book1\Workspace1\tic-tac-toe\x64\Debug\tic-tac-toe.exe
